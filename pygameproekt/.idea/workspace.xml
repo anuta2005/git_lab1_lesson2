@@ -22,9 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="351390d3-c4da-404b-82cb-c251ff164dea" name="Default Changelist" comment="12">
+    <list default="true" id="351390d3-c4da-404b-82cb-c251ff164dea" name="Default Changelist" comment="Версия 0:50">
       <change beforePath="$PROJECT_DIR$/../human" beforeDir="false" afterPath="$PROJECT_DIR$/../human" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610387467754</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Версия 0:50">
+      <created>1610401909841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610401909841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="Версия 0:50" />
+    <option name="LAST_COMMIT_MESSAGE" value="Версия 0:50" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="12" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610387330304">
@@ -172,10 +179,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610387382613" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1610387187342">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1610401929361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610387187342" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610401929361" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
